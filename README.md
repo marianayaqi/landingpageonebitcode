@@ -1,4 +1,6 @@
-# <div align="center"><a href="https://mariantune.github.io/landingpageonebitcode/"><img width="70px" src="./src/imagens/logo-readme.jpg" alt="projeto jazz"></a>
+# <div align="center"><a href="https://mariantune.github.io/landingpageonebitcode/">
+  ![logo -readme](https://user-images.githubusercontent.com/123278537/217389839-bce88248-e213-461e-9c60-eee176324982.jpg)
+</a>
 </div>
 
 
