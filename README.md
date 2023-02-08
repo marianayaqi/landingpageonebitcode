@@ -37,9 +37,10 @@ Criado junto ao time da  ONEBITCODE 👩‍💻
 </p>
 
 <br>
-
+<h4>
   🧑‍🚀 Este projeto está em andamento apresentado por Isaac Pontes, do canal <a target="_blank" href="https://www.youtube.com/@OneBitCode">"One Bit Code".</a>
   E indicado por meu parceirinho de estudos vulgo nariz de nós todos <a target="_blank" href="https://github.com/robertojunnior">Roberto Junior </a>
+  <h4>
 <br>
 
 ## 🤓 Tecnologias
