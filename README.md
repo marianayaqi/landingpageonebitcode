@@ -6,41 +6,48 @@
 </div>
 
 
-<h1 align="center"> Projeto LANDING PAGE </h1>
+<h1 align="center"> Projeto "Tom's Jazz School</h1>
 
 <p align="center">
-PROJETO: LANDING PAGE apenas com HTML e CSS a partir do FIGMA 
-Criado junto ao time da  ONEBITCODE 👩‍💻
-</p>
+Apenas com HTML e CSS e FIGMA 
+<br>
+Criado junto ao time da  ONEBITCODE 👩‍💻</p>
+<br>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+  <a href="#memo-licença">Licença</a></p>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  
 <br>
-<h2>Primeiras impressões do projeto ainda em andamento<h2>
+
+<p align="center">
+<a target="_blank"href="https://mariantune.github.io/landingpageonebitcode/">Clique aqui</a> para conferir o resultado final.🎶🎵🎷🎺🥁
+
+<h2 align="center">Versão desktop<h2>
 <br>
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/123278537/217405037-ffc42360-62d7-4451-baad-32870026405f.png">
+  <img alt="License" src="https://user-images.githubusercontent.com/123278537/217685212-c84cc636-0a92-42dc-9f42-95356118fe19.png">
 </p>
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 <br>
-<h2>Versão Mobile em andamento<h2>
+<h2 align="center">Versão Mobile<h2>
 <br>
 <p align="center">
+  <img alt="License" src="https://user-images.githubusercontent.com/123278537/217685625-5d16a752-62e4-43b5-9bd9-b8c0123a939e.png">
 </p>
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/123278537/217406160-4bcce3b6-2cfb-4b94-b93a-75af6a383f12.png">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
-<h4>
-  🧑‍🚀 Este projeto está em andamento apresentado por Isaac Pontes, do canal <a target="_blank" href="https://www.youtube.com/@OneBitCode">"One Bit Code".</a>
-  E indicado por meu parceirinho de estudos vulgo nariz de nós todos <a target="_blank" href="https://github.com/robertojunnior">Roberto Junior </a>
-  <h4>
+<h3>
+  🧑‍🚀 Este projeto foi desenvolvido por Isaac Pontes, do canal <a target="_blank" href="https://www.youtube.com/@OneBitCode">"One Bit Code".</a>
+  <br>
+  E indicado por meu parceirinho de estudos, vulgo nariz de nós todos <a target="_blank" href="https://github.com/robertojunnior">Roberto Junior </a>
+  <h3>
 <br>
 
 ## 🤓 Tecnologias
@@ -49,6 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <li> HTML
 <li> CSS
+<li> FIGMA
 <li> Git and GitHub
 
 <br>    
