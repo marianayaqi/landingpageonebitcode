@@ -1,6 +1,6 @@
 # <div align="center"><a href="https://mariantune.github.io/landingpageonebitcode/">
 <div style="display: inline_block">
-  <img align="right" src="https://user-images.githubusercontent.com/123278537/217389839-bce88248-e213-461e-9c60-eee176324982.jpg" width="100"px/>
+  <img align="right" src="https://user-images.githubusercontent.com/123278537/217971483-60806fd8-4b4a-426c-b50c-4fb0353fa295.png" width="300"px/>
   </div>
 </a>
 </div>
