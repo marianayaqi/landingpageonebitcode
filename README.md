@@ -48,7 +48,7 @@ Criado junto ao time da  ONEBITCODE 👩‍💻</p>
 
 ## 💻 Projeto
 <p align="center">
-<a target="_blank"href="https://marianayaqi.github.io/landingpageonebitcode/">Clique aqui</a> para conferir o resultado final.🎶🎵🎷🎺🥁
+<a target="_blank" href="https://marianayaqi.github.io/landingpageonebitcode/">Clique aqui</a> para conferir o resultado final.🎶🎵🎷🎺🥁
 
 <br>
 <h3>
