@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://mariantune.github.io/landingpageonebitcode/">
+# <div align="center"><a href="https://marianayaqi.github.io/landingpageonebitcode/">
 <div style="display: inline_block">
   <img align="right" src="https://user-images.githubusercontent.com/123278537/217971483-60806fd8-4b4a-426c-b50c-4fb0353fa295.png" width="300"px/>
   </div>
@@ -22,7 +22,7 @@ Criado junto ao time da  ONEBITCODE 👩‍💻</p>
 <br>
 
 <p align="center">
-<a target="_blank"href="https://mariantune.github.io/landingpageonebitcode/">Clique aqui</a> para conferir o resultado final.🎶🎵🎷🎺🥁
+<a target="_blank"href="https://marianayaqi.github.io/landingpageonebitcode/">Clique aqui</a> para conferir o resultado final.🎶🎵🎷🎺🥁
 
 <h2 align="center">Versão desktop<h2>
 <br>
