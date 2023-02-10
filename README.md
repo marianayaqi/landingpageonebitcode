@@ -1,6 +1,7 @@
-# <div align="center"><a href="https://marianayaqi.github.io/landingpageonebitcode/">
-<div style="display: inline_block">
-  <img align="right" src="https://user-images.githubusercontent.com/123278537/217971483-60806fd8-4b4a-426c-b50c-4fb0353fa295.png" width="300"px/>
+# <div align="center">
+<a href="https://marianayaqi.github.io/landingpageonebitcode/">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/123278537/217971483-60806fd8-4b4a-426c-b50c-4fb0353fa295.png" width="300"px/>
   </div>
 </a>
 </div>
@@ -17,12 +18,13 @@ Criado junto ao time da  ONEBITCODE 👩‍💻</p>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a></p>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
   
 <br>
 
-<p align="center">
-<a target="_blank"href="https://marianayaqi.github.io/landingpageonebitcode/">Clique aqui</a> para conferir o resultado final.🎶🎵🎷🎺🥁
+## 🎨 Layout
 
 <h2 align="center">Versão desktop<h2>
 <br>
@@ -43,8 +45,14 @@ Criado junto ao time da  ONEBITCODE 👩‍💻</p>
 </p>
 
 <br>
+
+## 💻 Projeto
+<p align="center">
+<a target="_blank"href="https://marianayaqi.github.io/landingpageonebitcode/">Clique aqui</a> para conferir o resultado final.🎶🎵🎷🎺🥁
+
+<br>
 <h3>
-  🧑‍🚀 Este projeto foi desenvolvido por Isaac Pontes, do canal <a target="_blank" href="https://www.youtube.com/@OneBitCode">"One Bit Code".</a>
+  🕹️ Este projeto foi desenvolvido por Isaac Pontes, do canal <a target="_blank" href="https://www.youtube.com/@OneBitCode">"One Bit Code".</a>
   <br>
   E indicado por meu parceirinho de estudos, vulgo nariz de nós todos <a target="_blank" href="https://github.com/robertojunnior">Roberto Junior </a>
   <h3>
@@ -58,6 +66,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <li> CSS
 <li> FIGMA
 <li> Git and GitHub
+
+<br>
+<br> 
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
 
 <br>    
 <h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
